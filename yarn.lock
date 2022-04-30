@@ -1031,10 +1031,10 @@
     lodash "^4.17.15"
     tmp-promise "^3.0.2"
 
-"@mysteriumnetwork/node@1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@mysteriumnetwork/node/-/node-1.6.0.tgz#be39faf6597df9005ec7d961ce0def4ce04c2e5d"
-  integrity sha512-l2USAw9L+bArKqBs9DI1klQl5z7JFp43Vecsj8HebJLIMu03iuzkZ+MHITu6nt0CCdSNz39L43VzAun1EHsvpg==
+"@mysteriumnetwork/node@1.6.3":
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/@mysteriumnetwork/node/-/node-1.6.3.tgz#8142464b735a52d51ab8b282d1332388142e48e1"
+  integrity sha512-MP9j1tdzDzTryMX1NEArtM/7wYh1IRCbhMv9ybxdLwW0Mkg/tE419DK1zbCNOW/1y9VJ0UqbWTFoTcqfTWbUXA==
   dependencies:
     extract-zip "^2.0.0"
     follow-redirects "^1.5.2"
